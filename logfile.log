@@ -1,0 +1,335 @@
+2021-10-01 19:49:44,782 INFO  [Log] login()passed 
+2021-10-01 19:49:53,563 INFO  [Log] search_a_product()passed 
+2021-10-01 19:49:57,455 INFO  [Log] select_a_product()passed 
+2021-10-01 19:49:59,872 INFO  [Log] add_product_to_cart()passed 
+2021-10-01 19:50:03,528 INFO  [Log] go_to_cart()passed 
+2021-10-01 19:55:42,839 INFO  [Log] login()passed 
+2021-10-01 19:55:51,750 INFO  [Log] search_a_product()passed 
+2021-10-01 19:55:57,781 INFO  [Log] select_a_product()passed 
+2021-10-01 19:55:59,720 ERROR [Log] add_product_to_cart()failed with cause : null 
+2021-10-01 19:56:02,841 ERROR [Log] go_to_cart()failed with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#Cart_AddQuantity_675960635"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CUNEYT', ip: '192.168.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\CUNEYT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51070}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f10458d4ce87b1cfd2196fd258f052c9
+*** Element info: {Using=id, value=Cart_AddQuantity_675960635} 
+2021-10-01 19:56:03,337 INFO  [Log] deleteCart()passed 
+2021-10-01 19:58:42,193 INFO  [Log] login()passed 
+2021-10-01 19:58:50,745 INFO  [Log] search_a_product()passed 
+2021-10-01 19:58:56,143 INFO  [Log] select_a_product()passed 
+2021-10-01 19:58:59,432 INFO  [Log] add_product_to_cart()passed 
+2021-10-01 19:59:02,476 ERROR [Log] go_to_cart()failed with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#Cart_AddQuantity_675960635"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CUNEYT', ip: '192.168.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\CUNEYT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63178}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 81405b0138f5f0162c4e219dcd4ce162
+*** Element info: {Using=id, value=Cart_AddQuantity_675960635} 
+2021-10-01 19:59:04,354 ERROR [Log] deleteCart()failed with cause : element click intercepted: Element <a href="javascript:;" class="cart-square-link" title="Sil" cartitemid="676006630" id="Cart_ProductDelete_676006630" data-toggle="modal" data-target="#cartItemDeleteModal_676006630">...</a> is not clickable at point (846, 238). Other element would receive the click: <div class="modal-dialog modal-dialog-centered" role="document">...</div>
+  (Session info: chrome=94.0.4606.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CUNEYT', ip: '192.168.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\CUNEYT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63178}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 81405b0138f5f0162c4e219dcd4ce162 
+2021-10-01 20:01:14,798 INFO  [Log] login()passed 
+2021-10-01 20:01:24,726 INFO  [Log] search_a_product()passed 
+2021-10-01 20:01:31,172 INFO  [Log] select_a_product()passed 
+2021-10-01 20:01:33,844 INFO  [Log] add_product_to_cart()passed 
+2021-10-01 20:01:38,648 ERROR [Log] go_to_cart()failed with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#Cart_AddQuantity_675960635"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CUNEYT', ip: '192.168.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\CUNEYT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54453}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3806531b1d49a5bb6658008e47c67806
+*** Element info: {Using=id, value=Cart_AddQuantity_675960635} 
+2021-10-01 20:01:39,145 ERROR [Log] deleteCart()failed with cause : element not interactable
+  (Session info: chrome=94.0.4606.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CUNEYT', ip: '192.168.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\CUNEYT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54453}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3806531b1d49a5bb6658008e47c67806 
+2021-10-01 20:05:19,397 INFO  [Log] login()passed 
+2021-10-01 20:05:27,821 INFO  [Log] search_a_product()passed 
+2021-10-01 20:05:34,576 INFO  [Log] select_a_product()passed 
+2021-10-01 20:05:36,346 INFO  [Log] add_product_to_cart()passed 
+2021-10-01 20:05:41,492 INFO  [Log] go_to_cart()passed 
+2021-10-01 20:05:42,073 ERROR [Log] deleteCart()failed with cause : stale element reference: element is not attached to the page document
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CUNEYT', ip: '192.168.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\CUNEYT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61591}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0f845f5e67acee9a1d53394254301595 
+2021-10-01 20:07:06,215 ERROR [Log] deleteCart()failed with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#Cart_ProductDelete_676006630"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CUNEYT', ip: '192.168.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\CUNEYT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64817}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 808186ffb8ca1cd59a60c3c50db8cb32
+*** Element info: {Using=id, value=Cart_ProductDelete_676006630} 
+2021-10-01 20:10:37,812 INFO  [Log] login()passed 
+2021-10-01 20:10:47,460 INFO  [Log] search_a_product()passed 
+2021-10-01 20:10:52,470 INFO  [Log] select_a_product()passed 
+2021-10-01 20:10:54,780 INFO  [Log] add_product_to_cart()passed 
+2021-10-01 20:10:58,332 INFO  [Log] go_to_cart()passed 
+2021-10-01 20:10:59,210 ERROR [Log] deleteCart()failed with cause : stale element reference: element is not attached to the page document
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CUNEYT', ip: '192.168.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\CUNEYT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58624}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7b79d14339bb6c893272b1835e8c527d 
+2021-10-01 20:13:40,331 INFO  [Log] login()passed 
+2021-10-01 20:13:48,147 INFO  [Log] search_a_product()passed 
+2021-10-01 20:13:52,101 INFO  [Log] select_a_product()passed 
+2021-10-01 20:13:54,918 INFO  [Log] add_product_to_cart()passed 
+2021-10-01 20:13:58,633 INFO  [Log] go_to_cart()passed 
+2021-10-01 20:13:59,082 ERROR [Log] dropCart()failed with cause : stale element reference: element is not attached to the page document
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CUNEYT', ip: '192.168.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\CUNEYT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59993}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6098ce915e0a26a2309bd85ee6c3a88a 
+2021-10-01 20:15:29,590 INFO  [Log] login()passed 
+2021-10-01 20:15:39,442 INFO  [Log] search_a_product()passed 
+2021-10-01 20:15:44,059 INFO  [Log] select_a_product()passed 
+2021-10-01 20:15:46,374 INFO  [Log] add_product_to_cart()passed 
+2021-10-01 20:15:51,966 INFO  [Log] go_to_cart()passed 
+2021-10-01 20:17:40,787 INFO  [Log] login()passed 
+2021-10-01 20:17:51,319 INFO  [Log] search_a_product()passed 
+2021-10-01 20:17:56,140 INFO  [Log] select_a_product()passed 
+2021-10-01 20:17:59,086 INFO  [Log] add_product_to_cart()passed 
+2021-10-01 20:18:03,757 ERROR [Log] go_to_cart()failed with cause : element not interactable
+  (Session info: chrome=94.0.4606.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CUNEYT', ip: '192.168.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\CUNEYT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60651}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e35ae03105d22b1e2ca54a7e6f4a472c 
+2021-10-01 20:20:27,085 INFO  [Log] login()passed 
+2021-10-01 20:20:36,119 INFO  [Log] search_a_product()passed 
+2021-10-01 20:20:41,387 INFO  [Log] select_a_product()passed 
+2021-10-01 20:20:42,982 ERROR [Log] add_product_to_cart()failed with cause : For input string: "" 
+2021-10-01 20:20:47,082 ERROR [Log] go_to_cart()failed with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#Cart_AddQuantity_676006630"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CUNEYT', ip: '192.168.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\CUNEYT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51228}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a8623fa7c049ab2fc5ffaed4598b1800
+*** Element info: {Using=id, value=Cart_AddQuantity_676006630} 
+2021-10-01 20:22:33,474 INFO  [Log] login()passed 
+2021-10-01 20:22:43,159 INFO  [Log] search_a_product()passed 
+2021-10-01 20:22:48,862 INFO  [Log] select_a_product()passed 
+2021-10-01 20:22:50,707 ERROR [Log] add_product_to_cart()failed with cause : null 
+2021-10-01 20:22:54,220 ERROR [Log] go_to_cart()failed with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#Cart_AddQuantity_676006630"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CUNEYT', ip: '192.168.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\CUNEYT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59646}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 07a2f23643d2e0c3d3d72607870f2dff
+*** Element info: {Using=id, value=Cart_AddQuantity_676006630} 
+2021-10-01 20:24:18,782 INFO  [Log] login()passed 
+2021-10-01 20:24:28,625 INFO  [Log] search_a_product()passed 
+2021-10-01 20:24:33,801 INFO  [Log] select_a_product()passed 
+2021-10-01 20:24:35,904 INFO  [Log] add_product_to_cart()passed 
+2021-10-01 20:24:40,842 ERROR [Log] go_to_cart()failed with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#Cart_AddQuantity_676006630"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CUNEYT', ip: '192.168.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\CUNEYT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50270}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ee81378c94087ec4997f3950387822b0
+*** Element info: {Using=id, value=Cart_AddQuantity_676006630} 
+2021-10-01 20:27:08,709 INFO  [Log] login()passed 
+2021-10-01 20:27:18,391 INFO  [Log] search_a_product()passed 
+2021-10-01 20:27:23,644 INFO  [Log] select_a_product()passed 
+2021-10-01 20:28:34,803 INFO  [Log] login()passed 
+2021-10-01 20:28:42,436 INFO  [Log] search_a_product()passed 
+2021-10-01 20:28:47,098 INFO  [Log] select_a_product()passed 
+2021-10-01 20:29:14,090 ERROR [Log] add_product_to_cart()failed with cause : Cannot locate an element using css selector=a[size]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CUNEYT', ip: '192.168.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: RemoteWebDriver 
+2021-10-01 20:29:14,406 ERROR [Log] go_to_cart()failed with cause : no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=94.0.4606.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CUNEYT', ip: '192.168.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\CUNEYT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58442}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c70ab7905528679ae1b852766872d36c
+*** Element info: {Using=css selector, value=a.header-cart} 
+2021-10-01 20:29:49,339 INFO  [Log] login()passed 
+2021-10-01 20:29:49,380 ERROR [Log] search_a_product()failed with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#search"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CUNEYT', ip: '192.168.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\CUNEYT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63478}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c43e6b8edd990a97e9b9d7ac784528b3
+*** Element info: {Using=id, value=search} 
+2021-10-01 20:29:49,420 ERROR [Log] select_a_product()failed with cause : Index 1 out of bounds for length 0 
+2021-10-01 20:29:49,448 ERROR [Log] add_product_to_cart()failed with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[size]"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CUNEYT', ip: '192.168.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\CUNEYT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63478}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c43e6b8edd990a97e9b9d7ac784528b3
+*** Element info: {Using=css selector, value=a[size]} 
+2021-10-01 20:29:49,481 ERROR [Log] go_to_cart()failed with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a.header-cart"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CUNEYT', ip: '192.168.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\CUNEYT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63478}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c43e6b8edd990a97e9b9d7ac784528b3
+*** Element info: {Using=css selector, value=a.header-cart} 
+2021-10-01 20:30:18,283 INFO  [Log] login()passed 
+2021-10-01 20:30:28,892 INFO  [Log] search_a_product()passed 
+2021-10-01 20:30:33,906 INFO  [Log] select_a_product()passed 
+2021-10-01 20:41:23,058 INFO  [Log] login()passed 
+2021-10-01 20:41:32,777 INFO  [Log] search_a_product()passed 
+2021-10-01 20:41:36,485 INFO  [Log] select_a_product()passed 
+2021-10-01 20:41:38,897 ERROR [Log] add_product_to_cart()failed with cause : null 
+2021-10-01 20:41:43,449 ERROR [Log] go_to_cart()failed with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#Cart_ProductDelete_676006630"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CUNEYT', ip: '192.168.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\CUNEYT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:49771}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b204342ee5e175ea7acc01b0c4c27f04
+*** Element info: {Using=id, value=Cart_ProductDelete_676006630} 
+2021-10-01 20:42:31,840 INFO  [Log] login()passed 
+2021-10-01 20:42:41,472 INFO  [Log] search_a_product()passed 
+2021-10-01 20:42:46,295 INFO  [Log] select_a_product()passed 
+2021-10-01 20:42:48,681 INFO  [Log] add_product_to_cart()passed 
+2021-10-01 20:42:52,979 ERROR [Log] go_to_cart()failed with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#Cart_ProductDelete_676006630"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CUNEYT', ip: '192.168.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\CUNEYT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58249}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4130dcc683cc13a8baa28b3a4cb0da6d
+*** Element info: {Using=id, value=Cart_ProductDelete_676006630} 
+2021-10-01 20:44:14,777 ERROR [Log] login()failed with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#LoginEmail"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CUNEYT', ip: '192.168.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\CUNEYT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52942}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f63cbff2376685763ab8e3d8e9181484
+*** Element info: {Using=id, value=LoginEmail} 
+2021-10-01 20:44:14,838 ERROR [Log] search_a_product()failed with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#search"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CUNEYT', ip: '192.168.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\CUNEYT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52942}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f63cbff2376685763ab8e3d8e9181484
+*** Element info: {Using=id, value=search} 
+2021-10-01 20:44:14,881 ERROR [Log] select_a_product()failed with cause : Index 1 out of bounds for length 0 
+2021-10-01 20:44:14,904 ERROR [Log] add_product_to_cart()failed with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[size]"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CUNEYT', ip: '192.168.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\CUNEYT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52942}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f63cbff2376685763ab8e3d8e9181484
+*** Element info: {Using=css selector, value=a[size]} 
+2021-10-01 20:44:14,941 ERROR [Log] go_to_cart()failed with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a.header-cart"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CUNEYT', ip: '192.168.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\CUNEYT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52942}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f63cbff2376685763ab8e3d8e9181484
+*** Element info: {Using=css selector, value=a.header-cart} 
+2021-10-01 20:44:46,992 INFO  [Log] login()passed 
+2021-10-01 20:44:55,811 INFO  [Log] search_a_product()passed 
+2021-10-01 20:44:59,698 INFO  [Log] select_a_product()passed 
+2021-10-01 20:45:02,921 INFO  [Log] add_product_to_cart()passed 
+2021-10-01 20:45:04,034 ERROR [Log] go_to_cart()failed with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#Cart_AddQuantity_676074503"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CUNEYT', ip: '192.168.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\CUNEYT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61995}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 291a706d1e698e3948eb9724f71bd018
+*** Element info: {Using=id, value=Cart_AddQuantity_676074503} 
+2021-10-01 20:47:04,860 INFO  [Log] login()passed 
+2021-10-01 20:47:14,123 INFO  [Log] search_a_product()passed 
+2021-10-01 20:47:18,558 INFO  [Log] select_a_product()passed 
+2021-10-01 20:47:21,138 INFO  [Log] add_product_to_cart()passed 
+2021-10-01 20:47:25,251 ERROR [Log] go_to_cart()failed with cause : no such element: Unable to locate element: {"method":"css selector","selector":"fa fa-trash-o"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CUNEYT', ip: '192.168.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\CUNEYT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58592}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 97fd1033d74bdda45d08cbf5a4ed9623
+*** Element info: {Using=css selector, value=fa fa-trash-o} 
+2021-10-01 20:50:17,118 INFO  [Log] login()passed 
+2021-10-01 20:50:26,386 INFO  [Log] search_a_product()passed 
+2021-10-01 20:50:30,215 INFO  [Log] select_a_product()passed 
+2021-10-01 20:50:32,651 INFO  [Log] add_product_to_cart()passed 
+2021-10-01 20:50:36,165 INFO  [Log] go_to_cart()passed 
+2021-10-01 20:52:56,323 INFO  [Log] login()passed 
+2021-10-01 20:53:04,233 INFO  [Log] search_a_product()passed 
+2021-10-01 20:53:08,593 INFO  [Log] select_a_product()passed 
+2021-10-01 20:53:10,961 INFO  [Log] add_product_to_cart()passed 
+2021-10-01 20:53:14,426 ERROR [Log] go_to_cart()failed with cause : element not interactable
+  (Session info: chrome=94.0.4606.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CUNEYT', ip: '192.168.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\CUNEYT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61745}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e1c2cb702d0eba3d1a95a2457026f67d 
+2021-10-01 20:56:01,484 INFO  [Log] login()passed 
+2021-10-01 20:56:11,682 INFO  [Log] search_a_product()passed 
+2021-10-01 20:56:15,885 INFO  [Log] select_a_product()passed 
+2021-10-01 20:56:18,385 INFO  [Log] add_product_to_cart()passed 
+2021-10-01 20:56:22,060 ERROR [Log] go_to_cart()failed with cause : element not interactable
+  (Session info: chrome=94.0.4606.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CUNEYT', ip: '192.168.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\CUNEYT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54079}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 158ef94f02a16042fc0e64ab9f193ce9 
+2021-10-01 20:57:11,708 INFO  [Log] login()passed 
+2021-10-01 20:57:22,184 INFO  [Log] search_a_product()passed 
+2021-10-01 20:57:26,417 INFO  [Log] select_a_product()passed 
+2021-10-01 20:57:28,965 INFO  [Log] add_product_to_cart()passed 
+2021-10-01 20:57:32,218 INFO  [Log] go_to_cart()passed 
